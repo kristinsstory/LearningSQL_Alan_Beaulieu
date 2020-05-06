@@ -1,8 +1,3 @@
-DROP DATABASE if exists bank;
-CREATE DATABASE bank;
-USE bank;
-
-
 SELECT * FROM bank.employee;
 
 -- 3.1 Извлеките ID, имя и фамилию всех банковских сотрудников. Выпол􏰀ните сортировку по фамилии, а затем по имени.
