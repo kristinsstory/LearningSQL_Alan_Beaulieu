@@ -1,5 +1,3 @@
-## Example files for the title:  
-  
 # Learning SQL 2nd Edition, by Alan Beaulieu
   
 [![Learning SQL 2nd Edition, by Alan Beaulieu](http://akamaicovers.oreilly.com/images/9780596520830/cat.gif)](https://www.safaribooksonline.com/library/view/title/9780596801847//)
